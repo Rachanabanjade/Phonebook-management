@@ -1,7 +1,6 @@
 /* This is the code for simple phone book application in c.Only basic functions like adding,deleting,modifying
 are incorporated.For this specific program file is saved as phonebook.DAT in the drive specified.
-Author : Rachana Banjade 
-		Alisha Pathak
+Author : Rachana Banjade
 */
 
 
